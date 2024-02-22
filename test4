@@ -1,0 +1,3 @@
+This ia a test for direct commit
+
+git commit -a -u -m "Direct test"
